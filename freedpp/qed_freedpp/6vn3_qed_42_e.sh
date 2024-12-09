@@ -1,0 +1,29 @@
+#!/bin/sh
+python ../main_qed_sascore.py \
+	    --exp_root experiments \
+	        --alert_collections ../alert_collections.csv \
+		    --fragments ../zinc_crem.json \
+		        --receptor ../protein_A_6vn3.pdbqt \
+			   --vina_program ../env/qvina02 \
+			   --starting_smile "c1([*:1])c([*:2])ccc([*:3])c1" \
+			   --fragmentation crem \
+			   --num_sub_proc 12 \
+			   --n_conf 1 \
+                           --num_mols 1000 \
+			   --exhaustiveness 1 \
+			   --save_freq 50 \
+			   --epochs 400 \
+			   --commands "train,sample" \
+			   --reward_version soft \
+                           --box_center "28.111,0.895,29.799" \
+    		           --box_size "16.442,17.990,19.716" \
+			   --seed 42 \
+                           --weights "1.0,1.0" \
+                           --objectives "DockingScore,QED" \
+                           --name 6vn3_qed_42_400e \
+                           #--checkpoint experiments/6vn3_qed_42_400e/ckpt/model_400.pth
+                                                      
+                           
+                           
+
+`
