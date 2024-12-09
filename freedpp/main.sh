@@ -1,0 +1,21 @@
+#!/bin/sh
+python main_qed.py \
+	    --exp_root experiments \
+	        --alert_collections ../alert_collections.csv \
+		    --fragments ../zinc_crem.json \
+		        --receptor ../fa7.pdbqt \
+			    --vina_program env/qvina02 \
+			        --starting_smile "c1([*:1])c([*:2])ccc([*:3])c1" \
+				    --fragmentation crem \
+				        --num_sub_proc 12 \
+					    --n_conf 1 \
+					        --exhaustiveness 1 \
+						    --save_freq 50 \
+						        --epochs 1 \
+							    --commands "train,sample" \
+							        --reward_version soft \
+								    --box_center "1,0,0" \
+								        --box_size "15,15,15" \
+									    --seed 150 \
+                                                                                --objectives "QED"\
+									           --name test_freedpp
