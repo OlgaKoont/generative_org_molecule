@@ -1,0 +1,4 @@
+INFO:root:run_single_protein_inference_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test_print --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_11_31
+--------------------------------
+
