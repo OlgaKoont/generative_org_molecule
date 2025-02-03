@@ -1,0 +1,9 @@
+INFO:root:run_single_protein_inference.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test_0102 --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2025_02_01_22_50
+--------------------------------
+
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 26.44it/s]
+0it [00:00, ?it/s]1it [00:00,  8.67it/s]1it [00:00,  8.66it/s]
+loading complexes:   0%|          | 0/1 [00:00<?, ?it/s]loading complexes: 100%|██████████| 1/1 [00:00<00:00,  1.91it/s]loading complexes: 100%|██████████| 1/1 [00:00<00:00,  1.90it/s]
+0it [00:00, ?it/s]1it [00:43, 43.70s/it]1it [00:43, 43.70s/it]
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:50<07:37, 50.88s/it] 30%|███       | 3/10 [00:52<01:37, 13.89s/it]100%|██████████| 10/10 [00:52<00:00,  5.29s/it]
