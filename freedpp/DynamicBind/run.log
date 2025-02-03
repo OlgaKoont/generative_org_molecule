@@ -1,0 +1,324 @@
+run_single_protein_inference.py data/1opl_P16_A_aligned_to_P00519.pdb data/1opl_P16_A.sdf --savings_per_complex 40 --inference_steps 20 --header test --results result_folder --python /gxr/luwei/anaconda3/envs/dynamicbind/bin/python --relax_python /gxr/luwei/anaconda3/envs/relax/bin/python
+2024_12_03_16_51
+--------------------------------
+
+run_single_protein_inference.py data/1qg8_cleaned.pdb data/1qg8_input.csv --savings_per_complex 40 --inference_steps 20 --header test --results result_folder
+2024_12_03_16_54
+--------------------------------
+
+run_single_protein_inference.py data/1qg8_cleaned.pdb data/1qg8_input.csv --savings_per_complex 40 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_03_20_35
+--------------------------------
+
+run_single_protein_inference.py data/1qg8_cleaned.pdb data/1qg8_input.csv --savings_per_complex 40 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_03_21_11
+--------------------------------
+
+run_single_protein_inference.py data/1qg8_cleaned.pdb data/1qg8_input.csv --savings_per_complex 40 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_03_21_13
+--------------------------------
+
+run_single_protein_inference.py data/1qg8_cleaned.pdb data/1qg8_input.csv --savings_per_complex 40 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_03_21_24
+--------------------------------
+
+run_single_protein_inference.py data/1qg8_cleaned.pdb data/1qg8_input.csv --savings_per_complex 40 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_03_21_36
+--------------------------------
+
+run_single_protein_inference.py data/1qg8_cleaned.pdb data/1qg8_input.csv --savings_per_complex 40 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_03_22_00
+--------------------------------
+
+run_single_protein_inference.py data/1qg8_cleaned.pdb data/1qg8_input.csv --savings_per_complex 40 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_03_22_05
+--------------------------------
+
+run_single_protein_inference.py data/1qg8_cleaned.pdb data/1qg8_input.csv --savings_per_complex 40 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_04_16_35
+--------------------------------
+
+run_single_protein_inference.py data/1qg8_cleaned.pdb data/1qg8_input.csv --savings_per_complex 40 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_04_16_53
+--------------------------------
+
+run_single_protein_inference.py data/1qg8_cleaned.pdb data/1qg8_input.csv --savings_per_complex 40 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_05_09_53
+--------------------------------
+
+run_single_protein_inference.py data/1qg8_cleaned.pdb data/1qg8_input.csv --savings_per_complex 40 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_05_09_57
+--------------------------------
+
+run_single_protein_inference.py data/1qg8_cleaned.pdb data/1qg8_input.csv --savings_per_complex 40 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_05_10_08
+--------------------------------
+
+run_single_protein_inference.py data/1qg8_cleaned.pdb data/1qg8_input.csv --savings_per_complex 40 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_05_10_10
+--------------------------------
+
+run_single_protein_inference.py data/1qg8_cleaned.pdb data/1qg8_input.csv --savings_per_complex 40 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_05_10_41
+--------------------------------
+
+run_single_protein_inference.py data/1qg8_cleaned.pdb data/1qg8_input.csv --savings_per_complex 40 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_05_11_08
+--------------------------------
+
+run_single_protein_inference.py data/1qg8_cleaned.pdb data/1qg8_input.csv --savings_per_complex 40 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_05_11_48
+--------------------------------
+
+run_single_protein_inference.py 3fqs.pdb ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --header test_hts --python /path/to/dynamicbind/python --relax_python /path/to/relax/python
+2024_12_13_15_18
+--------------------------------
+
+run_single_protein_inference.py 3fqs.pdb ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --header test_hts --python /path/to/dynamicbind/python --relax_python /path/to/relax/python
+2024_12_13_15_18
+--------------------------------
+
+run_single_protein_inference.py 3fqs.pdb ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --header test_hts --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_13_15_20
+--------------------------------
+
+run_single_protein_inference.py 3fqs.pdb ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --header test_hts --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_13_15_23
+--------------------------------
+
+run_single_protein_inference.py 3fqs.pdb ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --header test_hts_ --results result_folder_hts --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_13_15_33
+--------------------------------
+
+run_single_protein_inference.py 3fqs.pdb ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --header test_hts_ --results result_folder_hts --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_13_16_06
+--------------------------------
+
+run_single_protein_inference.py 3fqs.pdb ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --header test_hts_ --results result_folder_hts --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_16_09_25
+--------------------------------
+
+run_single_protein_inference.py 3fqs.pdb ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --header test_hts__ --results result_folder_hts --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_16_09_29
+--------------------------------
+
+run_single_protein_inference.py 3fqs.pdb ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --header test_hts___ --results result_folder_hts --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_16_09_37
+--------------------------------
+
+run_single_protein_inference.py 3fqs.pdb ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --header test_hts___ --results result_folder_hts --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_16_09_38
+--------------------------------
+
+run_single_protein_inference.py 3fqs.pdb ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --header test_hts___ --results result_folder_hts --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_16_09_41
+--------------------------------
+
+run_single_protein_inference.py 3fqs.pdb ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --header test_hts___ --results result_folder_hts --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_16_09_42
+--------------------------------
+
+run_single_protein_inference.py 3fqs.pdb ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --num_workers 2 --header test_hts____ --results result_folder_hts --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_16_09_56
+--------------------------------
+
+run_single_protein_inference.py 3fqs.pdb ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --num_workers 2 --header test_hts____ --results result_folder_hts --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_16_10_03
+--------------------------------
+
+run_single_protein_inference.py 3fqs.pdb ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --num_workers 5 --header test_hts____ --results result_folder_hts --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_16_10_05
+--------------------------------
+
+run_single_protein_inference.py 3fqs.pdb ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --num_workers 5 --header test_hts_par --results result_folder_hts --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_16_12_56
+--------------------------------
+
+run_single_protein_inference.py data/4djh_cleaned.pdb data/kor_Ki_prot_lig.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_17_13_16
+--------------------------------
+
+run_single_protein_inference.py data/4djh_cleaned.pdb data/kor_Ki_prot_lig.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_17_16_39
+--------------------------------
+
+run_single_protein_inference_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile data/kor_Ki_prot_lig.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_18_10_13
+--------------------------------
+
+run_single_protein_inference_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_18_10_14
+--------------------------------
+
+run_single_protein_inference_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_18_10_15
+--------------------------------
+
+run_single_protein_inference_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_18_10_18
+--------------------------------
+
+run_single_protein_inference_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_18_13_34
+--------------------------------
+
+run_single_protein_inference_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_18_13_40
+--------------------------------
+
+run_single_protein_inference_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test_print --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_11_31
+--------------------------------
+
+run_single_protein_inference_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test_print --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_11_32
+--------------------------------
+
+run_single_protein_inference_new_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test_print --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_12_50
+--------------------------------
+
+run_single_protein_inference_new_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_12_53
+--------------------------------
+
+run_single_protein_inference_new_new.py proteinFile data/4djh_cleaned.pdb ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_12_59
+--------------------------------
+
+run_single_protein_inference_new_new.py proteinFile data/4djh_cleaned.pdb ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_13_13
+--------------------------------
+
+run_single_protein_inference_new_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_13_14
+--------------------------------
+
+run_single_protein_inference_new_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_13_14
+--------------------------------
+
+run_single_protein_inference_new_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_13_32
+--------------------------------
+
+run_single_protein_inference_new_new.py proteinFile data/4djh_cleaned.pdb ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_13_33
+--------------------------------
+
+run_single_protein_inference_new_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_13_34
+--------------------------------
+
+run_single_protein_inference_new_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_13_36
+--------------------------------
+
+run_single_protein_inference_new_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_13_37
+--------------------------------
+
+run_single_protein_inference_new_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_13_40
+--------------------------------
+
+run_single_protein_inference_new_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_13_43
+--------------------------------
+
+run_single_protein_inference_new_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_13_57
+--------------------------------
+
+run_single_protein_inference_new_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_14_02
+--------------------------------
+
+run_single_protein_inference_new_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_14_04
+--------------------------------
+
+run_single_protein_inference.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header main_new --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_14_09
+--------------------------------
+
+run_single_protein_inference.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header main_new --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_14_12
+--------------------------------
+
+run_single_protein_inference.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header main_new --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_14_19
+--------------------------------
+
+run_single_protein_inference_new_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_14_20
+--------------------------------
+
+run_single_protein_inference_new_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_14_21
+--------------------------------
+
+run_single_protein_inference.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header main_new --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_14_21
+--------------------------------
+
+run_single_protein_inference_new_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_14_25
+--------------------------------
+
+run_single_protein_inference.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header main_new --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_14_25
+--------------------------------
+
+run_single_protein_inference.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header main_new --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_14_31
+--------------------------------
+
+run_single_protein_inference.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header main_new --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_15_17
+--------------------------------
+
+run_single_protein_inference.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header main_new --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_15_21
+--------------------------------
+
+run_single_protein_inference.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header main_new --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_15_25
+--------------------------------
+
+run_single_protein_inference.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header main_new --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_20_07
+--------------------------------
+
+run_single_protein_inference.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header main_new --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_27_23_07
+--------------------------------
+
+run_single_protein_inference.py --proteinFile 3fqs.pdb --ligandFile ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --num_workers 5 --header test_hts_2701 --results result_folder_hts --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2025_01_27_12_46
+--------------------------------
+
+run_single_protein_inference.py --proteinFile 3fqs.pdb --ligandFile ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --num_workers 5 --header test_hts_2701 --results result_folder_hts --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2025_01_27_12_56
+--------------------------------
+
+run_single_protein_inference.py --proteinFile 3fqs.pdb --ligandFile ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --num_workers 5 --header test_hts_2701 --results result_folder_hts --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2025_01_27_12_58
+--------------------------------
+
+run_single_protein_inference.py --proteinFile 3fqs.pdb --ligandFile ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --num_workers 5 --header test_hts_2701 --results result_folder_hts --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2025_01_27_12_59
+--------------------------------
+
+run_single_protein_inference.py --proteinFile 3fqs.pdb --ligandFile ligand.csv --hts --savings_per_complex 1 --inference_steps 20 --num_workers 5 --header test_hts_2701 --results result_folder_hts --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2025_01_27_13_02
+--------------------------------
+
+run_single_protein_inference_new_new.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test --results result_folder_print --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2025_02_01_22_47
+--------------------------------
+
+run_single_protein_inference.py --proteinFile data/4djh_cleaned.pdb --ligandFile ligand.csv --savings_per_complex 1 --inference_steps 20 --header test_0102 --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2025_02_01_22_50
+--------------------------------
+
