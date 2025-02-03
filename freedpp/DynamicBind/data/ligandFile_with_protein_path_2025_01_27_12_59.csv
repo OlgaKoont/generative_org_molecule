@@ -1,0 +1,2 @@
+Smiles,ligand,protein_path
+O=C(O)c1cc(Nc2nccc(C3CCOC3)n2)cc(-c2nnco2)c1,O=C(O)c1cc(Nc2nccc(C3CCOC3)n2)cc(-c2nnco2)c1,./data/cleaned_input_proteinFile.pdb
