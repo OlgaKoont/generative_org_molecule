@@ -1,0 +1,9 @@
+INFO:root:run_single_protein_inference.py data/1qg8_cleaned.pdb data/1qg8_input.csv --savings_per_complex 40 --inference_steps 20 --header test --results result_folder --python /nfs/home/okonovalova/anaconda3/envs/dynamicbind/bin/python --relax_python /nfs/home/okonovalova/anaconda3/envs/relax/bin/python
+2024_12_05_11_48
+--------------------------------
+
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 54.93it/s]
+0it [00:00, ?it/s]1it [00:00,  4.27it/s]3it [00:00,  7.35it/s]4it [00:00,  8.08it/s]
+loading complexes:   0%|          | 0/4 [00:00<?, ?it/s]loading complexes:  25%|██▌       | 1/4 [00:00<00:01,  2.20it/s]loading complexes:  50%|█████     | 2/4 [00:00<00:00,  3.66it/s]loading complexes:  75%|███████▌  | 3/4 [00:00<00:00,  4.65it/s]loading complexes: 100%|██████████| 4/4 [00:00<00:00,  5.32it/s]loading complexes: 100%|██████████| 4/4 [00:00<00:00,  4.48it/s]
+0it [00:00, ?it/s]1it [00:32, 32.33s/it]2it [00:54, 26.09s/it]3it [01:14, 23.50s/it]4it [01:35, 22.58s/it]4it [01:35, 23.91s/it]
+  0%|          | 0/40 [00:00<?, ?it/s]  2%|▎         | 1/40 [00:31<20:46, 31.96s/it] 15%|█▌        | 6/40 [00:32<02:16,  4.02s/it] 18%|█▊        | 7/40 [00:34<02:02,  3.71s/it] 52%|█████▎    | 21/40 [00:50<00:30,  1.63s/it] 57%|█████▊    | 23/40 [00:53<00:26,  1.58s/it] 62%|██████▎   | 25/40 [00:53<00:20,  1.34s/it] 65%|██████▌   | 26/40 [00:55<00:20,  1.44s/it] 68%|██████▊   | 27/40 [00:58<00:20,  1.57s/it] 80%|████████  | 32/40 [00:59<00:07,  1.09it/s] 88%|████████▊ | 35/40 [00:59<00:03,  1.51it/s]100%|██████████| 40/40 [00:59<00:00,  1.48s/it]

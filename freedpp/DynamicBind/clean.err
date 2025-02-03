@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/mnt/tank/scratch/okonovalova/freedpp/freedpp/DynamicBind/clean_pdb.py", line 107, in <module>
+    clean_one_pdb(proteinFile, toFile)
+  File "/mnt/tank/scratch/okonovalova/freedpp/freedpp/DynamicBind/clean_pdb.py", line 85, in clean_one_pdb
+    fixer = PDBFixer(filename=fixed_pdbFile)
+  File "/nfs/home/okonovalova/anaconda3/envs/dynamicbind/lib/python3.10/site-packages/pdbfixer/pdbfixer.py", line 361, in __init__
+    self._initializeFromPDB(file)
+  File "/nfs/home/okonovalova/anaconda3/envs/dynamicbind/lib/python3.10/site-packages/pdbfixer/pdbfixer.py", line 401, in _initializeFromPDB
+    structure = PdbStructure(file)
+  File "/nfs/home/okonovalova/anaconda3/envs/dynamicbind/lib/python3.10/site-packages/openmm/app/internal/pdbstructure.py", line 153, in __init__
+    self._load(input_stream)
+  File "/nfs/home/okonovalova/anaconda3/envs/dynamicbind/lib/python3.10/site-packages/openmm/app/internal/pdbstructure.py", line 186, in _load
+    self._current_model._finalize()
+AttributeError: 'NoneType' object has no attribute '_finalize'
