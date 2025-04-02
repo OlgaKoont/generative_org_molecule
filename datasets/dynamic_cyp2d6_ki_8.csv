@@ -1,0 +1,17 @@
+ligand,pKi,Ki,protein_path
+COc(cc1)cc2c1[nH]cc2,inf,0.0,4wnv_meeko.pdb
+C[C@@H]([C@@H]1[C@@H]2C[C@@H](c3c(CC4)c(cccc5)c5[nH]3)N4C1)OC=C2C(OC)=O,5.481486060122113,3.3,4wnv_meeko.pdb
+CC(C)N(CC1)CCC1(c1ccccc1)c1ccccc1,5.318758762624412,4.8,4wnv_meeko.pdb
+C[C@H]([C@@H]1[C@@H]2C[C@@H](c3c(CC4)c(cccc5)c5[nH]3)N4C1)OC=C2C(OC)=O,4.769551078621726,17.0,4wnv_meeko.pdb
+COc(cc1)c(CN[C@H]2[C@@H](c3ccccc3)NCCC2)cc1OC(F)(F)F,4.698970004336019,20.0,4wnv_meeko.pdb
+COc1cc(CCC2C(F)(F)F)c2cc1CN[C@H]1[C@@H](c2ccccc2)NCCC1,4.698970004336019,20.0,4wnv_meeko.pdb
+Cc(cc1)ccc1-[n+]1c(C)cc(cc(cc2OC)OC)c2c1C.F[B-](F)(F)F,4.55129368009492,28.1,4wnv_meeko.pdb
+COC([C@H]([C@@H](C1)[C@@H](CC2)CN(CC3)[C@@H]1c1c3c(cccc3)c3[nH]1)[C@@H]2O)=O,4.508638306165727,31.0,4wnv_meeko.pdb
+CN(CC1)CCN1C(c1cn(Cc2cncn2Cc(cc2)cc3c2OCO3)cc1-c1cccc2ccccc12)=O,4.096910013008056,80.0,4wnv_meeko.pdb
+COc1cc(C[C@@H]2C(O)OC[C@H]2Cc(cc2)cc3c2OCO3)cc(OC)c1OC,4.086186147616283,82.0,4wnv_meeko.pdb
+Clc1ccc(c(N2CCN(CCCN(CC3)CCN3c3c(ccc(Cl)c4)c4ncc3)CC2)ccn2)c2c1,4.045757490560675,90.0,4wnv_meeko.pdb
+CC(C)[C@@H](C(N[C@H](C[C@@H]([C@H](Cc1ccccc1)NC(OCc1cncs1)=O)O)Cc1ccccc1)=O)NC(N(C)Cc1csc(C(C)C)n1)=O,4.0,100.0,4wnv_meeko.pdb
+Cc(cc1)ccc1-c(n(C)nc1)c1-c1nn(C)c2c1c(N(CC1)CC1N1CCCCC1)ncn2,3.9208187539523753,120.0,4wnv_meeko.pdb
+CC(C)(C(CC/C(/C)=C/COc1c(cco2)c2cc(O2)c1C=CC2=O)OC(C)(C)C(CC/C(/C)=C/COc1c(C=CC(O2)=O)c2cc2c1cco2)O)O,3.886056647693163,130.0,4wnv_meeko.pdb
+OC[C@H](Cc(cc1)cc2c1OCO2)[C@@H](Cc(cc1)cc2c1OCO2)CO,3.8477116556169433,142.0,4wnv_meeko.pdb
+CC(C)(c1nc(-c(cc2)ccc2F)c(Nc(cc2)ccc2F)n1CC1)N1C(CN)=O,3.8068754016455384,156.0,4wnv_meeko.pdb
